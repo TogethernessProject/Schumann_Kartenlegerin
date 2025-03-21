@@ -16,7 +16,7 @@
       </fileDesc>
       <encodingDesc xml:id="e741ey9">
          <appInfo xml:id="ayztwys1">
-            <application xml:id="a2iwjjw2" startdate="2025-03-21T15:57:44" version="1.2.3">
+            <application xml:id="a2iwjjw2" enddate="2025-03-21T16:16:20" startdate="2025-03-21T15:57:44" version="1.2.3">
                <name xml:id="n41dwik1">mei-friend</name>
                <p xml:id="pdf8v5q1">First edit by mei-friend 1.2.3, 18 March 2025.</p>
             </application>
@@ -36,10 +36,10 @@
             <zone xml:id="zone_01JPWJ56FNZ5FP8R4PXC5YKA59" type="measure" ulx="1528" uly="940" lrx="1779" lry="1462"/>
             <zone xml:id="zone_01JPWJ56FPYSWRTDW5AM6Z4XAB" type="measure" ulx="1739" uly="940" lrx="2043" lry="1464"/>
             <zone xml:id="zone_01JPWJ56FPR3K7AVP2QXF02C14" type="measure" ulx="2005" uly="942" lrx="2426" lry="1478"/>
-            <zone xml:id="zone_01JPWJ56FPGRCXVDQKZDZME2F9" type="measure" ulx="911" uly="1495" lrx="1454" lry="1993"/>
-            <zone xml:id="zone_01JPWJ56FPG2B6YMFXPXE6STVZ" type="measure" ulx="1414" uly="1501" lrx="1669" lry="1995"/>
-            <zone xml:id="zone_01JPWJ56FPQXZSCG9D4AY0B7DT" type="measure" ulx="1627" uly="1496" lrx="1952" lry="1996"/>
-            <zone xml:id="zone_01JPWJ56FP8MQZXZBAB1SMV6K3" type="measure" ulx="1909" uly="1502" lrx="2189" lry="1988"/>
+            <zone xml:id="zone_01JPWJ56FPGRCXVDQKZDZME2F9" lrx="1454" lry="1993" type="measure" ulx="911" uly="1429"/>
+            <zone xml:id="zone_01JPWJ56FPG2B6YMFXPXE6STVZ" lrx="1669" lry="1995" type="measure" ulx="1414" uly="1432"/>
+            <zone xml:id="zone_01JPWJ56FPQXZSCG9D4AY0B7DT" lrx="1952" lry="1996" type="measure" ulx="1627" uly="1436"/>
+            <zone xml:id="zone_01JPWJ56FP8MQZXZBAB1SMV6K3" lrx="2189" lry="1988" type="measure" ulx="1909" uly="1445"/>
             <zone xml:id="zone_01JPWJ56FPAMFJKTS2QD8MC3SF" type="measure" ulx="2148" uly="1501" lrx="2434" lry="1984"/>
             <zone xml:id="zone_01JPWJ56FPW0KA3WHWDWNKAY01" type="measure" ulx="853" uly="1962" lrx="1302" lry="2441"/>
             <zone xml:id="zone_01JPWJ56FQXR2543E79069ADFD" type="measure" ulx="1260" uly="1967" lrx="1590" lry="2435"/>
@@ -278,8 +278,10 @@
                            <clef xml:id="cgvxu1i" shape="G" line="2"/>
                         </layer>
                      </staff>
-                     <dir xml:id="d1m7lnc5" type="mscore-staff-text" startid="#r1fq8l6l">Lebhaft, leise.</dir>
-                     <dynam xml:id="d1n5ts8w" label="p" startid="#nam9qu2">p</dynam>
+                     <dir xml:id="d1m7lnc5" place="above" startid="#r1fq8l6l" type="mscore-staff-text">
+                        <rend fontsize="125%" fontstyle="normal" fontweight="bold">Lebhaft, leise.</rend>
+                     </dir>
+                     <dynam xml:id="d1n5ts8w" label="p" place="between" staff="2 3" startid="#nam9qu2">p</dynam>
                      <slur xml:id="s1fadxbn" startid="#nam9qu2" endid="#n1yu0dsu"/>
                   </measure>
                   <measure xml:id="m1j0u1ze" facs="#zone_01JPWJ56FPG2B6YMFXPXE6STVZ" n="2">
@@ -944,7 +946,7 @@
                      </staff>
                      <slur xml:id="s161m6ib" startid="#nuedu38" endid="#nu7th3d"/>
                      <slur xml:id="smt10a3" startid="#nex8h01" endid="#n1i7fcwn"/>
-                     <dynam xml:id="dsh5548" label="f" startid="#nmkmle0" place="above">f</dynam>
+                     <dynam xml:id="dsh5548" label="f" place="between" staff="2 3" startid="#nmkmle0">f</dynam>
                   </measure>
                   <measure xml:id="m1syf5sg" facs="#zone_01JPWJ56FR9JKEVYS6FH5DWJA7" n="12">
                      <staff xml:id="m12s1" n="1">
@@ -957,7 +959,7 @@
                            </note>
                            <note xml:id="n1vuk9fm" dur="16" pname="a" oct="4" stem.dir="up">
                               <verse xml:id="vdq9qa" n="1">
-                                 <syl wordpos="t">hen!</syl>
+                                 <syl wordpos="t">hen,</syl>
                               </verse>
                            </note>
                            <note xml:id="n18g66wq" dur="8" pname="b" oct="4" stem.dir="down">
@@ -1140,7 +1142,7 @@
                         </layer>
                      </staff>
                      <hairpin xml:id="h132ne0i" form="dim" startid="#nbhqrvq" place="above" endid="#nnbilvd"/>
-                     <hairpin xml:id="hjw9g5" form="cres" startid="#n2p0t45" endid="#n17xmbm8"/>
+                     <hairpin xml:id="h9vcxpk2" form="cres" place="above" staff="3" tstamp="1" tstamp2="1m+2"/>
                   </measure>
                   <sb />
                   <measure xml:id="m8ts9lj" facs="#zone_01JPWJ56FR8VREVJ356FKQ5ZQW" n="16">
@@ -1294,8 +1296,7 @@
                            </beam>
                         </layer>
                      </staff>
-                     <dir xml:id="dtgoprc" type="mscore-playtech-annotation" startid="#ne4hfzs">ritard.</dir>
-                     <hairpin xml:id="h1utq9x4" form="cres" startid="#cj8tld5" endid="#rmzpcm7"/>
+                     <dir xml:id="dtgoprc" place="above" startid="#ne4hfzs" tstamp2="3m+0" type="mscore-playtech-annotation" vgrp="1">ritard.</dir>
                      <hairpin xml:id="hmhat8q" form="cres" startid="#cj8tld5" endid="#rmzpcm7"/>
                   </measure>
                   <measure xml:id="m1nq4zr" facs="#zone_01JPWJ56FRHJ7ES3KSA7CQFT6T" n="18">
@@ -1429,7 +1430,7 @@
                            <clef xml:id="c3blqxk" shape="G" line="2"/>
                         </layer>
                      </staff>
-                     <dir xml:id="db7gpve" type="mscore-playtech-annotation" startid="#riaqzwu">a tempo</dir>
+                     <dir xml:id="db7gpve" place="above" startid="#riaqzwu" type="mscore-playtech-annotation" vgrp="1">a tempo</dir>
                      <dynam xml:id="d17jpgms" label="p" startid="#n1nocuqo">p</dynam>
                      <slur xml:id="s14p5y7j" startid="#n1nocuqo" endid="#n1984oqn"/>
                   </measure>
@@ -1560,6 +1561,9 @@
                            </note>
                            <note xml:id="nsdws8b" dur="8" pname="e" oct="4" stem.dir="up">
                               <accid accid.ges="f"/>
+                              <verse>
+                                 <syl>nicht</syl>
+                              </verse>
                            </note>
                         </layer>
                      </staff>
@@ -1607,7 +1611,6 @@
                            <rest xml:id="rqpx4qm" dur="16"/>
                         </layer>
                      </staff>
-                     <dir xml:id="d1bnnfs7" type="mscore-staff-text" startid="#nsdws8b" place="below">nicht, </dir>
                   </measure>
                   <measure xml:id="m1qemgx9" facs="#zone_01JPWJ56FV3NTSF85YY16K1REA" n="24">
                      <staff xml:id="m24s1" n="1">
@@ -1674,9 +1677,7 @@
                                  <syl>ich</syl>
                               </verse>
                            </note>
-                           <graceGrp grace="acc">
-                              <note xml:id="n1vz84bg" dur="8" pname="f" oct="4"/>
-                           </graceGrp>
+                           <note xml:id="n1vz84bg" dur="8" grace="unacc" pname="f" oct="4"/>
                            <note xml:id="nnu96qw" dur="16" pname="b" oct="4" stem.dir="down">
                               <verse xml:id="vdjoytg" n="1">
                                  <syl con="d" wordpos="i">mei</syl>
@@ -1728,10 +1729,9 @@
                            </chord>
                         </layer>
                      </staff>
-                     <dir xml:id="d1qgkgr7" startid="#n5mtdej" place="below">ritard.</dir>
-                     <slur xml:id="s1l48oy2" startid="#n1vz84bg" endid="#n1qdh16j"/>
+                     <dir xml:id="d1qgkgr7" place="above" startid="#n5mtdej">ritard.</dir>
                      <fermata xml:id="fmegmeq" startid="#n1qdh16j"/>
-                     <dir xml:id="d1pt91lc" startid="#c8799lo">ritard.</dir>
+                     <dir xml:id="d1pt91lc" place="between" staff="2 3" startid="#c8799lo">ritard.</dir>
                      <fermata xml:id="fir015f" startid="#c1fdxbtq"/>
                      <fermata xml:id="f12krlf4" startid="#cydkysy"/>
                   </measure>
@@ -1793,8 +1793,8 @@
                            </chord>
                         </layer>
                      </staff>
-                     <dir xml:id="d1ind6ah" startid="#nvhtyig" place="below">a tempo</dir>
-                     <dir xml:id="d1m4qy8p" startid="#rppe0bv" place="below">a tempo</dir>
+                     <dir xml:id="d1ind6ah" place="above" startid="#nvhtyig">a tempo</dir>
+                     <dir xml:id="d1m4qy8p" place="above" startid="#rppe0bv">a tempo</dir>
                   </measure>
                   <sb />
                   <measure xml:id="m1cu58oe" facs="#zone_01JPWJ56FVCH3NP5A20AH9AAYA" n="27">
