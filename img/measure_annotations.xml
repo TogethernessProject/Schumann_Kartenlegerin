@@ -209,18 +209,6 @@
                     <scoreDef/>
                     <section>
                         <pb/>
-                        <measure xml:id="measure_01JPWJ56FK7PZARZ8G2GCD13F3" n="1" label="1" facs="#zone_01JPWJ56FKZTKM64SQFJTTJYQR"/>
-                        <measure xml:id="measure_01JPWJ56FKQQ32BN3YTYR8Z9EQ" n="2" label="2" facs="#zone_01JPWJ56FK4C08RKZEG84FT3CT"/>
-                        <measure xml:id="measure_01JPWJ56FKJ721RMW1SSKXDEFJ" n="3" label="3" facs="#zone_01JPWJ56FKXJ213NZ3W68DG8HS"/>
-                        <sb/>
-                        <measure xml:id="measure_01JPWJ56FND90QKPJFR7NEMTPN" n="4" label="4" facs="#zone_01JPWJ56FN5QCPB9A4BN3TSHDX"/>
-                        <measure xml:id="measure_01JPWJ56FNGP9CJAD9HW2JFKWH" n="5" label="5" facs="#zone_01JPWJ56FN93FWQ62JG6DTM7NB"/>
-                        <sb/>
-                        <measure xml:id="measure_01JPWJ56FNQX16MPD2WD8EGE7R" n="6" label="6" facs="#zone_01JPWJ56FNGVA6Q903V21EX8EE"/>
-                        <measure xml:id="measure_01JPWJ56FNRHK7X75E16PAJR0J" n="7" label="7" facs="#zone_01JPWJ56FNZ5FP8R4PXC5YKA59"/>
-                        <measure xml:id="measure_01JPWJ56FP1RCSG6WATJNKRMYQ" n="8" label="8" facs="#zone_01JPWJ56FPYSWRTDW5AM6Z4XAB"/>
-                        <measure xml:id="measure_01JPWJ56FP81MRVEHC8ST1QZSH" n="9" label="9" facs="#zone_01JPWJ56FPR3K7AVP2QXF02C14"/>
-                        <sb/>
                         <measure xml:id="measure_01JPWJ56FPNEN66T4NS3XN74TA" n="10" label="10" facs="#zone_01JPWJ56FPGRCXVDQKZDZME2F9"/>
                         <measure xml:id="measure_01JPWJ56FP9VRJ2S9M720NCNHV" n="11" label="11" facs="#zone_01JPWJ56FPG2B6YMFXPXE6STVZ"/>
                         <measure xml:id="measure_01JPWJ56FPD8WQBPGSX05M44NS" n="12" label="12" facs="#zone_01JPWJ56FPQXZSCG9D4AY0B7DT"/>
