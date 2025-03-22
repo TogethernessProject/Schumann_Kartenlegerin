@@ -16,7 +16,7 @@
       </fileDesc>
       <encodingDesc xml:id="e741ey9">
          <appInfo xml:id="ayztwys1">
-            <application xml:id="a2iwjjw2" enddate="2025-03-22T08:03:50" startdate="2025-03-21T15:57:44" version="1.2.3">
+            <application xml:id="a2iwjjw2" enddate="2025-03-22T08:11:40" startdate="2025-03-21T15:57:44" version="1.2.3">
                <name xml:id="n41dwik1">mei-friend</name>
                <p xml:id="pdf8v5q1">First edit by mei-friend 1.2.3, 18 March 2025.</p>
             </application>
@@ -7566,11 +7566,14 @@
                            </note>
                            <note xml:id="n11lqvax" dur="16" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="v19wig86" n="1">
-                                 <syl xml:id="sjwcjf1">gebricht,</syl>
+                                 <syl con="d" wordpos="i" xml:id="sjwcjf1">ge</syl>
                               </verse>
                            </note>
                            <note xml:id="n1j2rrdd" dur="8" oct="4" pname="b" stem.dir="down">
                               <accid xml:id="avpaeuo2" accid.ges="f"/>
+                              <verse xml:id="v19w3g86" n="1">
+                                 <syl wordpos="t" xml:id="sjwc3f1">bricht,</syl>
+                              </verse>
                            </note>
                         </layer>
                      </staff>
@@ -7815,7 +7818,7 @@
                         <layer xml:id="m143s1l1" n="1">
                            <note xml:id="n1sbiucg" dur="16" oct="4" pname="f" stem.dir="up">
                               <verse xml:id="v1w11lee" n="1">
-                                 <syl xml:id="s7hszab1" wordpos="t">ist's,</syl>
+                                 <syl xml:id="s7hszab1" wordpos="t">ist’s,</syl>
                               </verse>
                            </note>
                            <note xml:id="nulq76d" dur="16" oct="4" pname="g" stem.dir="up">
@@ -7924,10 +7927,14 @@
                            </note>
                            <note xml:id="nx2asff" dur="16" oct="4" pname="d" stem.dir="up">
                               <verse xml:id="vy2g3aj" n="1">
-                                 <syl xml:id="sfxswyk2">auf–macht</syl>
+                                 <syl con="d" wordpos="i" xml:id="sfxswyk2">auf</syl>
                               </verse>
                            </note>
-                           <note xml:id="ntmxxme" dur="16" oct="4" pname="c" stem.dir="up"/>
+                           <note xml:id="ntmxxme" dur="16" oct="4" pname="c" stem.dir="up">
+                              <verse xml:id="vy2g2aj" n="1">
+                                 <syl xml:id="sfx1wyk2" wordpos="t">macht,</syl>
+                              </verse>
+                           </note>
                         </layer>
                      </staff>
                      <staff xml:id="m145s2" n="2">
@@ -7986,9 +7993,6 @@
                         <layer xml:id="m146s2l1" n="1">
                            <beam xml:id="b6xj5cs2">
                               <chord xml:id="cwjlcsq" dots="1" dur="16" type="mscore-beam-begin">
-                                 <verse xml:id="vqzhmf9" n="1">
-                                    <syl xml:id="s70oxwz1">ritard.</syl>
-                                 </verse>
                                  <note xml:id="nbslwqi" oct="3" pname="b">
                                     <accid xml:id="apbr2w8" accid.ges="f"/>
                                  </note>
@@ -8049,6 +8053,7 @@
                         </layer>
                      </staff>
                      <dir xml:id="d5d85up" place="above" staff="1" tstamp="1" tstamp2="2m+1" vgrp="1">ritard.</dir>
+                     <dir xml:id="d5d25up" place="between" staff="2 3" tstamp="1" tstamp2="2m+1" vgrp="1">ritard.</dir>
                      <hairpin xml:id="hrijawt" endid="#nqvbbu6" form="cres" place="above" startid="#n1qgg7xp"/>
                   </measure>
                   <measure xml:id="m1ut83kr" facs="#zone_01JPWJ56GBMZAFPS3YFDYRA3Z0" n="147">
@@ -8168,11 +8173,11 @@
                            <rest xml:id="r10twpma" dur="16"/>
                         </layer>
                      </staff>
-                     <slur xml:id="s1rris1h" endid="#np0qvxg" startid="#n2hz7zo"/>
+                     <slur xml:id="s1rris1h" curvedir="above" endid="#np0qvxg" startid="#n2hz7zo"/>
                      <fermata xml:id="fms4es8" startid="#np0qvxg"/>
                      <dir xml:id="d1dccowt" place="above" startid="#n1dcbuq9" vgrp="1">a tempo</dir>
                      <fermata xml:id="f1q5lty7" startid="#c1rdfk0t"/>
-                     <dynam xml:id="dcgqk3z" label="p" startid="#cz8meck">p</dynam>
+                     <dynam xml:id="dcgqk3z" label="p" place="between" staff="2 3" startid="#cz8meck">p</dynam>
                      <fermata xml:id="f1b60cnn" startid="#c1n2y4bz"/>
                   </measure>
                   <measure xml:id="m1s9s06x" facs="#zone_01JPWJ56GB2K2FEAN8MMD4QJFA" n="149">
@@ -8257,11 +8262,9 @@
                               </verse>
                               <accid xml:id="a72q4w21" accid.ges="f"/>
                            </note>
-                           <graceGrp xml:id="gbpaaw11" grace="acc">
-                              <note xml:id="nrumzo2" dur="8" oct="4" pname="e">
-                                 <accid xml:id="af0b7za1" accid.ges="f"/>
-                              </note>
-                           </graceGrp>
+                           <note xml:id="nrumzo2" dur="8" oct="4" grace="unacc" pname="e">
+                              <accid xml:id="af0b7za1" accid.ges="f"/>
+                           </note>
                            <note xml:id="ntnv0h8" dur="16" oct="5" pname="c" stem.dir="down">
                               <artic xml:id="a16og0c4" artic="stacc"/>
                               <verse xml:id="vvfmo6x" n="1">
@@ -8316,7 +8319,7 @@
                            <rest xml:id="r127kn95" dur="16"/>
                         </layer>
                      </staff>
-                     <slur xml:id="sllg67y" endid="#ntnv0h8" startid="#nrumzo2"/>
+                     <slur xml:id="sllg67y" curvedir="above" endid="#ntnv0h8" startid="#nrumzo2"/>
                   </measure>
                   <sb xml:id="sizqx3k1"/>
                   <measure xml:id="mhqgjhe" facs="#zone_01JPWJ56GBVY0VHBJA652AP3RQ" n="151">
