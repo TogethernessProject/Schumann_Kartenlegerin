@@ -16,7 +16,7 @@
       </fileDesc>
       <encodingDesc xml:id="e741ey9">
          <appInfo xml:id="ayztwys1">
-            <application xml:id="a2iwjjw2" enddate="2025-03-21T16:50:03" startdate="2025-03-21T15:57:44" version="1.2.3">
+            <application xml:id="a2iwjjw2" enddate="2025-03-22T07:50:51" startdate="2025-03-21T15:57:44" version="1.2.3">
                <name xml:id="n41dwik1">mei-friend</name>
                <p xml:id="pdf8v5q1">First edit by mei-friend 1.2.3, 18 March 2025.</p>
             </application>
@@ -215,8 +215,8 @@
                <scoreDef xml:id="ssct2tr2">
                   <pgHead xml:id="p4sfjih">
                      <rend xml:id="rfqfirw2" halign="center" valign="top">
-                        <rend xml:id="r6ksvhz1" fontsize="x-large" type="title">Die Kartenlegerin<lb xml:id="lmabe81"/></rend>
-                        <rend xml:id="rllzat2" fontsize="x-small" type="title">(Chamisso.)<lb xml:id="lln9k5j2"/></rend>
+                        <rend xml:id="r6ksvhz1" fontsize="xx-large" type="title">Die Kartenlegerin<lb xml:id="lmabe81"/></rend>
+                        <rend xml:id="rllzat2" fontsize="small" type="title">(Chamisso.)<lb xml:id="lln9k5j2"/></rend>
                      </rend>
                      <rend xml:id="ra581ma1" halign="right" valign="bottom">
                         <rend xml:id="rwrw23k1" type="opusnumber">Op. 31. No. 2.</rend>
@@ -520,7 +520,7 @@
                         <layer xml:id="m6s1l1" n="1">
                            <note xml:id="n1dojcos" dots="1" dur="16" oct="4" pname="b" stem.dir="down">
                               <verse xml:id="vf3zglt" n="1">
-                                 <syl xml:id="sxww1ec" con="d" wordpos="i">Hau</syl>
+                                 <syl xml:id="sxww1ec" con="d" wordpos="i">Haus</syl>
                               </verse>
                               <accid xml:id="av1fs7f" accid.ges="f"/>
                            </note>
@@ -723,7 +723,7 @@
                            <rest xml:id="r21wdvy" dur="16"/>
                         </layer>
                      </staff>
-                     <hairpin xml:id="h1btrld5" endid="#cwwko7" form="cres" startid="#c1og912a"/>
+                     <hairpin xml:id="h1btrld5" form="cres" place="between" staff="2 3" tstamp="1.5" tstamp2="2.45"/>
                   </measure>
                   <measure xml:id="mvmslfv" facs="#zone_01JPWJ56FQ1EQ8P6QFAAP52049" n="9">
                      <staff xml:id="m9s1" n="1">
@@ -1243,9 +1243,6 @@
                            <beam xml:id="byb47dl2">
                               <chord xml:id="cj8tld5" dur="16" type="mscore-beam-begin">
                                  <artic xml:id="a127d7hh" artic="stacc"/>
-                                 <verse xml:id="v1bswuc2" n="1">
-                                    <syl xml:id="szciuva1">ritard.</syl>
-                                 </verse>
                                  <note xml:id="nl7e4j2" oct="4" pname="d"/>
                                  <note xml:id="n1q1lnue" oct="4" pname="f"/>
                               </chord>
@@ -1296,7 +1293,8 @@
                            </beam>
                         </layer>
                      </staff>
-                     <dir xml:id="dtgoprc" place="above" startid="#ne4hfzs" tstamp2="3m+0" type="mscore-playtech-annotation" vgrp="1">ritard.</dir>
+                     <dir xml:id="dtgoprc" place="above" tstamp="2" staff="1" tstamp2="2m+0.5" vgrp="1">ritard.</dir>
+                     <dir xml:id="dtgo1rc" place="between" staff="2 3" tstamp="2" tstamp2="2m+0.5" vgrp="1">ritard.</dir>
                      <hairpin xml:id="hmhat8q" endid="#rmzpcm7" form="cres" startid="#cj8tld5"/>
                   </measure>
                   <measure xml:id="m1nq4zr" facs="#zone_01JPWJ56FRHJ7ES3KSA7CQFT6T" n="18">
@@ -2205,6 +2203,7 @@
                            <rest xml:id="r1b6pdfi" dur="8"/>
                         </layer>
                      </staff>
+                     <hairpin xml:id="h9t735u2" form="cres" place="above" staff="1" tstamp="2.5" tstamp2="1m+2.25"/>
                   </measure>
                   <measure xml:id="m1708c5k" facs="#zone_01JPWJ56FW3JHN0ZS9X5GAW8S2" n="35">
                      <staff xml:id="m35s1" n="1">
@@ -2251,14 +2250,13 @@
                            </note>
                         </layer>
                      </staff>
-                     <hairpin xml:id="h14mevhg" endid="#nl3b3fw" form="cres" place="above" startid="#n12fev73"/>
                   </measure>
                   <measure xml:id="m1ud3d7" facs="#zone_01JPWJ56FWT2E4ZDY0MSY1RZ02" n="36">
                      <staff xml:id="m36s1" n="1">
                         <layer xml:id="m36s1l1" n="1">
                            <note xml:id="nobptby" dur="16" oct="4" pname="g">
                               <verse xml:id="v13wf4dq" n="1">
-                                 <syl xml:id="s24hl8q1" con="d" wordpos="i">Bό</syl>
+                                 <syl xml:id="s24hl8q1" con="d" wordpos="i">Bö</syl>
                               </verse>
                            </note>
                            <note xml:id="nnmyh1j" dur="16" oct="4" pname="f" stem.dir="up">
@@ -2387,15 +2385,15 @@
                            </beam>
                         </layer>
                      </staff>
-                     <dir xml:id="djs9al4" place="below" startid="#n1l9yees">ritard.</dir>
-                     <dir xml:id="dk28r4a" startid="#c20f4b6">ritard.</dir>
+                     <dir xml:id="dbqludb" place="above" staff="1" tstamp="1.5" tstamp2="2m+0">ritard.</dir>
+                     <dir xml:id="dbq2udb" place="above" staff="2" tstamp="1.5" tstamp2="2m+0">ritard.</dir>
                   </measure>
                   <measure xml:id="mya8ggs" facs="#zone_01JPWJ56FWQTJMKP56K8855F2X" n="38">
                      <staff xml:id="m38s1" n="1">
                         <layer xml:id="m38s1l1" n="1">
                            <note xml:id="n1bkyur4" dots="1" dur="8" oct="4" pname="g" stem.dir="up">
                               <verse xml:id="v38wyw" n="1">
-                                 <syl xml:id="s7z2b5z1" con="d" wordpos="i">Bό</syl>
+                                 <syl xml:id="s7z2b5z1" con="d" wordpos="i">Bö</syl>
                               </verse>
                            </note>
                            <note xml:id="n88056k" dur="16" oct="4" pname="f">
@@ -2528,6 +2526,7 @@
                      <tie xml:id="sswafx5" endid="#n1mhd8g4" startid="#nqageow"/>
                      <tie xml:id="twdhoq5" endid="#ni1ygvg" startid="#nu8hnn8"/>
                      <slur xml:id="s9vffxw" endid="#n1k5pllt" startid="#n17xsdnl"/>
+                     <tempo xml:id="tok3esz1" staff="3" startid="#nu8hnn8">Allegro</tempo>
                   </measure>
                   <measure xml:id="m1t7326w" facs="#zone_01JPWJ56FXZP4B7RATY65BG3PC" n="41">
                      <staff xml:id="m41s1" n="1">
@@ -8327,7 +8326,7 @@
                            <note xml:id="ntk0xb2" dur="16" oct="4" pname="b" stem.dir="down">
                               <artic xml:id="a1qgv0p0" artic="stacc"/>
                               <accid xml:id="a72bc0t2" accid.ges="f"/>
-                          <verse xml:id="v1yt2p6x" n="1">
+                              <verse xml:id="v1yt2p6x" n="1">
                                  <syl xml:id="srq5lzj1" wordpos="t">ten</syl>
                               </verse>  </note>
                            <note xml:id="nrynzuh" dur="16" oct="4" pname="d" stem.dir="up">
