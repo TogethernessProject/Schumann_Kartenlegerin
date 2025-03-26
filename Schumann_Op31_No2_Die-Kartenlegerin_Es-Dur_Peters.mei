@@ -20,7 +20,7 @@
       </fileDesc>
       <encodingDesc xml:id="e741ey9">
          <appInfo xml:id="ayztwys1">
-            <application xml:id="a2iwjjw2" enddate="2025-03-22T08:11:40" startdate="2025-03-21T15:57:44" version="1.2.3">
+            <application xml:id="a2iwjjw2" enddate="2025-03-26T14:09:21" startdate="2025-03-21T15:57:44" version="1.2.3">
                <name xml:id="n41dwik1">mei-friend</name>
                <p xml:id="pdf8v5q1">First edit by mei-friend 1.2.3, 18 March 2025.</p>
             </application>
@@ -219,8 +219,8 @@
                <scoreDef xml:id="ssct2tr2">
                   <pgHead xml:id="p4sfjih">
                      <rend xml:id="rfqfirw2" halign="center" valign="top">
-                        <rend xml:id="r6ksvhz1" fontsize="xx-large" type="title">Die Kartenlegerin<lb xml:id="lmabe81"/></rend>
-                        <rend xml:id="rllzat2" fontsize="small" type="title">(Chamisso.)<lb xml:id="lln9k5j2"/></rend>
+                        <rend xml:id="r6ksvhz1" fontsize="xx-large" fontweight="normal" type="title">Die Kartenlegerin<lb xml:id="lmabe81"/></rend>
+                        <rend xml:id="rllzat2" fontsize="small" fontweight="bold" type="title">(Chamisso.)<lb xml:id="lln9k5j2"/></rend>
                      </rend>
                      <rend xml:id="ra581ma1" halign="right" valign="bottom">
                         <rend xml:id="rwrw23k1" type="opusnumber">Op. 31. No. 2.</rend>
@@ -228,11 +228,12 @@
                   </pgHead>
                   <staffGrp xml:id="sn1t5ws1">
                      <staffDef xml:id="sb2tref" keysig="3f" lines="5" meter.count="2" meter.unit="8" n="1">
-                        <label xml:id="l14z3gh1">Gesang</label>
                         <clef xml:id="cywmb6f" line="2" shape="G"/>
                      </staffDef>
                      <staffGrp xml:id="skvizen2" bar.thru="true" symbol="brace">
-                        <label xml:id="lmnumwa">Klavier</label>
+                        <label xml:id="lmnumwa">
+                           <rend xml:id="r31pdle" fontsize="larger" fontweight="bold">18.</rend>
+                        </label>
                         <staffDef xml:id="s7nfvjz1" keysig="3f" lines="5" meter.count="2" meter.unit="8" n="2">
                            <clef xml:id="c18hx7g" line="2" shape="G"/>
                         </staffDef>
@@ -7570,13 +7571,13 @@
                            </note>
                            <note xml:id="n11lqvax" dur="16" oct="4" pname="a" stem.dir="up">
                               <verse xml:id="v19wig86" n="1">
-                                 <syl con="d" wordpos="i" xml:id="sjwcjf1">ge</syl>
+                                 <syl xml:id="sjwcjf1" con="d" wordpos="i">ge</syl>
                               </verse>
                            </note>
                            <note xml:id="n1j2rrdd" dur="8" oct="4" pname="b" stem.dir="down">
                               <accid xml:id="avpaeuo2" accid.ges="f"/>
                               <verse xml:id="v19w3g86" n="1">
-                                 <syl wordpos="t" xml:id="sjwc3f1">bricht,</syl>
+                                 <syl xml:id="sjwc3f1" wordpos="t">bricht,</syl>
                               </verse>
                            </note>
                         </layer>
@@ -7931,7 +7932,7 @@
                            </note>
                            <note xml:id="nx2asff" dur="16" oct="4" pname="d" stem.dir="up">
                               <verse xml:id="vy2g3aj" n="1">
-                                 <syl con="d" wordpos="i" xml:id="sfxswyk2">auf</syl>
+                                 <syl xml:id="sfxswyk2" con="d" wordpos="i">auf</syl>
                               </verse>
                            </note>
                            <note xml:id="ntmxxme" dur="16" oct="4" pname="c" stem.dir="up">
@@ -8266,7 +8267,7 @@
                               </verse>
                               <accid xml:id="a72q4w21" accid.ges="f"/>
                            </note>
-                           <note xml:id="nrumzo2" dur="8" oct="4" grace="unacc" pname="e">
+                           <note xml:id="nrumzo2" dur="8" grace="unacc" oct="4" pname="e">
                               <accid xml:id="af0b7za1" accid.ges="f"/>
                            </note>
                            <note xml:id="ntnv0h8" dur="16" oct="5" pname="c" stem.dir="down">
