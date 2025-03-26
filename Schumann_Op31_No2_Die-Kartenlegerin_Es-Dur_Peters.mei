@@ -8,6 +8,10 @@
             <title type="main">Die Kartenlegerin.</title>
             <respStmt>
                <persName role="composer">Robert Schumann</persName>
+               <persName role="encoder" enddate="2021-05-19T21:04:42">Laura Bishop</persName>
+               <persName role="encoder" enddate="2021-05-20T1:12:53">Anna Niemand (née Pudziow)</persName>
+               <persName role="encoder" enddate="2022-02-04T08:48:21">Sara d'Amario</persName>
+               <persName role="encoder" enddate="2025-03-26T12:23:53">Werner Goebl</persName>
             </respStmt>
          </titleStmt>
          <pubStmt>
