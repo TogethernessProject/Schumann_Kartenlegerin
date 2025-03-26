@@ -20,7 +20,7 @@
       </fileDesc>
       <encodingDesc xml:id="e741ey9">
          <appInfo xml:id="ayztwys1">
-            <application xml:id="a2iwjjw2" enddate="2025-03-26T14:09:21" startdate="2025-03-21T15:57:44" version="1.2.3">
+            <application xml:id="a2iwjjw2" enddate="2025-03-26T14:12:02" startdate="2025-03-21T15:57:44" version="1.2.4">
                <name xml:id="n41dwik1">mei-friend</name>
                <p xml:id="pdf8v5q1">First edit by mei-friend 1.2.3, 18 March 2025.</p>
             </application>
@@ -5602,9 +5602,7 @@
                   <measure xml:id="m19kt27w" facs="#zone_01JPWJ56G5ESB3P7T4518RTWPS" n="96">
                      <staff xml:id="m96s1" n="1">
                         <layer xml:id="m96s1l1" n="1">
-                           <graceGrp xml:id="ggv4bo4" grace="acc">
-                              <note xml:id="n1atkl5f" dur="8" oct="4" pname="d"/>
-                           </graceGrp>
+                           <note xml:id="n1atkl5f" dur="16" grace="acc" oct="4" pname="d"/>
                            <note xml:id="n1hxgmyo" dur="4" oct="4" pname="b" stem.dir="down">
                               <verse xml:id="v102b77t" n="1">
                                  <syl xml:id="shz50uw1" con="u">nah.</syl>
