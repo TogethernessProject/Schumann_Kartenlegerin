@@ -219,7 +219,7 @@
                <scoreDef xml:id="ssct2tr2">
                   <pgHead xml:id="p4sfjih">
                      <rend xml:id="rfqfirw2" halign="center" valign="top">
-                        <rend xml:id="r6ksvhz1" fontsize="xx-large" fontweight="normal" type="title">Die Kartenlegerin<lb xml:id="lmabe81"/></rend>
+                        <rend xml:id="r6ksvhz1" fontsize="xx-large" fontweight="normal" type="title">Die Kartenlegerin.<lb xml:id="lmabe81"/></rend>
                         <rend xml:id="rllzat2" fontsize="normal" fontweight="normal" type="title">(Chamisso.)<lb xml:id="lln9k5j2"/></rend>
                      </rend>
                      <rend xml:id="ra581ma1" halign="right" valign="bottom">
